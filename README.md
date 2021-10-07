@@ -48,33 +48,62 @@ This project has been designed in order to meet the necessity of clinic operatio
 
 ## Application Images
 <p>
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00002.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00002.jpg" width="200" style="max-width:100%;"></a>  
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00002.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00002.jpg" width="200" style="max-width:100%;"></a>  
 
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00003.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00003.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00003.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00003.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00004.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00004.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00004.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00004.jpg" width="200" style="max-width:100%;"></a>
     
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00005.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00005.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00005.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00005.jpg" width="200" style="max-width:100%;"></a>
   
   
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00006.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00006.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00006.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00006.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00007.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00007.jpg" width="200" style="max-width:100%;">
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00007.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00007.jpg" width="200" style="max-width:100%;">
   </a>
  
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00008.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00008.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00008.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00008.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00009.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00009.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00009.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00009.jpg" width="200" style="max-width:100%;"></a>
   
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00009.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_00009.jpg" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000010.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000010.jpg" width="200" style="max-width:100%;"></a>
 
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000011.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000011.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000012.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000012.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000013.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000013.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000014.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000014.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000015.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000015.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000016.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000016.jpg" width="200" style="max-width:100%;"></a>
+
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000017.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000017.jpg" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000018.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-JPA-SpringMVC-VetClinic-Project/blob/main/screenshots/VetApp_SpringMVC_Sunum_000018.jpg" width="200" style="max-width:100%;"></a>
   
 
 </p>
