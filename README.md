@@ -1,26 +1,41 @@
 # Java-JPA-SpringMVC-VetClinic-Project
 
-Veterinary Project RestApi Service
+This project has been designed in order tomeet the necessity of clinic operation demands and carry out the procedures in a fast and practical way. This project was designed using the Spring-Boot framework, following the MVC design pattern. MySql was used as the database during the design phase. JPA, one of the ORM tools, was used to manage the database. While developing the interface, HTML, CSS, BootStrap5 and JavaScript were used. Java and JavaScript languages are used in the back-end part. JQuery is used on the JavaScript side. (Ajax methods in jQuery)
 
-## Languages and Technologies 
 
 
 ## Technologies
-| :arrow_right:| Technologies  | 
-| ------------- |:-------------:|
-| :arrow_right: | Java  | 
-| :arrow_right:| JSP&Servlet   | 
-| :arrow_right: |Hibernate  | 
-| :arrow_right: | Mysql | 
-| :arrow_right:| BootStrap5  | 
-| :arrow_right: | Ajax | 
+|  Abilities| 
+| :-------------:|
+|Java|
+|Spring-Boot|
+|Spring Security|
+|Spring-MVC|
+|Spring-RestApi|
+|Spring-JPA|
+|JPA-Auditing|
+|Spring-Validation|
+|Regex|
+|Log4j|
+|Thymeleaf|
+|JavaScript|
+|jQuery|
+|HTML|
+|CSS|
+|Bootstrap 5|
+|MySql |
+
+
+
+
 
 ## Demo Account
 
-| 🔐 Admin Account | 🗝️ Password |
+| 🔐 Admin Account | 🗝️ Password |      
 | ------------- |:-------------:|
-| alper@mail.com	 | 12345 |
-
+| ```alper@mail.com```	 | 12345 |
+| ```rezzan@mail.com```	 | 12345 |
+| ```ferhat@mail.com```	 | 12345 |
 
 ## Application Images
 <p>
