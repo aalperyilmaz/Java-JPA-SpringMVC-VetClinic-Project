@@ -5,11 +5,15 @@ Veterinary Project RestApi Service
 ## Languages and Technologies 
 
 
-➡️ Java
-➡️ REST API
-➡️ ElasticSearch
-➡️ Redis
-➡️ Swagger
+## Technologies
+| :arrow_right:| Technologies  | 
+| ------------- |:-------------:|
+| :arrow_right: | Java  | 
+| :arrow_right:| JSP&Servlet   | 
+| :arrow_right: |Hibernate  | 
+| :arrow_right: | Mysql | 
+| :arrow_right:| BootStrap5  | 
+| :arrow_right: | Ajax | 
 
 ## Demo Account
 
