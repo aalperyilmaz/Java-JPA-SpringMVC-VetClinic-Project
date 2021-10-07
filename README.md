@@ -37,6 +37,15 @@ This project has been designed in order tomeet the necessity of clinic operation
 | ```rezzan@mail.com```	 | 12345 |
 | ```ferhat@mail.com```	 | 12345 |
 
+## Available Roles For Demo Account
+
+| 🔐 Admin Account | ADMIN | SUPER_ADMIN | USER |       
+| ------------- |:-------------:|:-------------:|:-------------:|
+| ```alper@mail.com```	 | x | x |x |
+| ```rezzan@mail.com```	 | x |- |x |
+| ```ferhat@mail.com```	 | x |- |x |
+
+
 ## Application Images
 <p>
 <a href="https://github.com/aalperyilmaz/Java-JPA-Spring-RestApi-VetClinic-Project/blob/main/screeshots/Veteriner%20Klinik%20Rest%20Servisi_00002.jpg" width="200" target="_blank">
